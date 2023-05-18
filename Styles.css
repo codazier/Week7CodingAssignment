@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(51, 153, 255);
+}
+
+
+
+
+
+
+
+git add .
+
+git commit -m "CSS commit"
+
+git branch -M main
+
+git remote add origin https://github.com/codazier/Week7CodingAssignment
+
+git push -u origin main
